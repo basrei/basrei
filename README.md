@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @basrei
+- 👀 I’m interested in creating hobby projects.
+- 🌱 I’m currently learning JavaScript.
